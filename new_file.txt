@@ -1,3 +1,6 @@
 tomato
 wheat
 cheese
+potato
+ladies finger
+cabbage
